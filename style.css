@@ -49,11 +49,3 @@ ul {
   width: 150px;
   height: 75px;
 }
-
-.split {
-  display: flex;
-}
-
-.split div {
-  width: 50%;
-}
